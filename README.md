@@ -12,4 +12,4 @@ En la sección de simulación se procede a emular la manera como un operador con
 
 Inicio de fabricación de 3 x Galleta con chispas de chocolate. Inicio de control de fórmula. Abrir válvula mantequilla. Esperar que peso es 3. Cerrar válvula de mantequilla. Abrir válvula de depósito. Cerrar válvula de depósito. ... <se repite lo mismo para cada uno de los ingredientes de la fórmula>. Fin de control de fórmula. Si bien no es necesario realizar animaciones o interfaz gráfica para la interacción con el simulador, está claro que le da un importante valor agregado a esta aplicación
 
-Este cambio de texto es dentro de la rama Dev1
+Este cambio es el merge de las dos ramas a una sola, Master
